@@ -1,1 +1,3 @@
-write a brief introduction describing what the current project is and what skills you will have demonstrated once you have completed it. (You can also do this as a self-reflection at the end of the project, which is a good way to review what you have learned.)
+An HTML-only website containing a few simplified recipes from [allrecipes.com](https://www.allrecipes.com).
+
+Built as a part of the Foundation Course of [The Odin Project](https://www.theodinproject.com).
