@@ -1,5 +1,9 @@
 /* MAIN */
 
+* {
+  margin: 0;
+}
+
 body {
   background-color: #faf4ed;
   color: #575279;
@@ -20,14 +24,19 @@ h1 {
   text-align: center;
 }
 
+h2 {
+  font-size: 2.5em;
+  font-weight: 600;
+  padding: 0.5em 0.125em;
+}
+
 a {
   background-color: #fefefe;
   color: #797593;
   display: block;
-  font-size: 2em;
   text-align: center;
   text-decoration: none;
-  padding: 1em;
+  border-radius: 0.5em;
 }
 
 .main-list {
@@ -36,7 +45,7 @@ a {
 }
 
 .main-list-item {
-  width: 320px;
+  width: 500px;
   margin: 2em auto;
 }
 
@@ -45,17 +54,7 @@ a {
   font-style: italic;
 }
 
-.main-image {
-  width: 320px;
-  display: block;
-}
-
 /* RECIPE PAGES */
-
-h2 {
-  font-size: 2em;
-  font-weight: 600;
-}
 
 h3 {
   font-size: 1.5em;
